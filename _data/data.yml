@@ -19,9 +19,9 @@ sidebar:
     xing: roykimm
     github: https://github.com/roykimm/
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab: ''
+    bitbucket: ''
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,6 +42,35 @@ sidebar:
 
       - item: 당구
         link:
+
+projects:
+    title: 자격증
+    intro: >
+      
+    assignments:
+      - title: 1종보통운전면허
+        link: "#hook"
+        tagline: "2007.04"
+
+      - title: 펀드투자상담사
+        link: "#"
+        tagline: "2012.07"
+
+      - title: 무역관리사
+        link: "#"
+        tagline: "2012.08"
+
+      - title: 리눅스마스터2급
+        link: "#"
+        tagline: "2017.09"
+
+      - title: 네트워트관리사2급
+        link: "#"
+        tagline: "2017.09"
+      
+      - title: 정보처리기사
+        link: "#"
+        tagline: "2019.05"
 
 career-profile:
     title: Career Profile
@@ -114,25 +143,23 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: 개인프로젝트
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: 게시판
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Todolist
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: 종합정보시스템
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: 주식정보사이트
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
@@ -140,49 +167,27 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
-    title: Skills &amp; Proficiency
+    title: 사용기술 &amp; 능숙도 #Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: React
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Database 
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Nexacro Platform
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
